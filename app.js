@@ -24,7 +24,7 @@ $("#expand").click(function() {
   
   
   new Typewriter('#maintext', {
-  strings: ['tymëczek.me', 'tymëczek#1111'],
+  strings: ['tymëczek.cf', 'tymëczek#1111'],
   autoStart: true,
   loop: true,
   delay: 130,
